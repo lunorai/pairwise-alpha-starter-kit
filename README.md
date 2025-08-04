@@ -63,7 +63,6 @@ Let me know if you'd like a version with collapsible sections (`<details>`), or 
 
 ## 🌟 What's New in Round 4
 
-- 🟢 **Lower Evaluation Cutoffs**: Minimum score thresholds have been reduced for easier qualification!
 - 📅 **Shorter Backtest Period**: Validation now uses data from **Jan 1, 2025 00:00:00 UTC → June 30, 2025 00:00:00 UTC** (6 months only)
 
 ---
