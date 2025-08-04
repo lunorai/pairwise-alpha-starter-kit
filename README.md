@@ -1,19 +1,19 @@
-# 🧠 PairWise Alpha Round 3 Starter Kit
+# 🧠 PairWise Alpha Round 4 Starter Kit
 
-Welcome to the official starter repo for **[Lunor Quest: PairWise Alpha Round 3](https://app.lunor.quest/challenge/1000036)**.
+Welcome to the official starter repo for **[Lunor Quest: PairWise Alpha Round 4](https://app.lunor.quest/challenge/1000036)**.
 
 Your mission is to create a **deterministic trading strategy** that identifies profitable relationships between target coins and anchor coins (BTC, ETH, SOL, and others), executing trades with dynamic position sizing based on predictable patterns.
 
 ## 📚 Table of Contents
 
-1. [🧠 Overview](#-pairwise-alpha-round-2-starter-kit)
+1. [🧠 Overview](#-pairwise-alpha-round-4-starter-kit)
 2. [🚀 Getting Started](#-getting-started)
 
    - [Prerequisites](#prerequisites)
    - [Setup Steps](#setup-steps)
 
 3. [🗂️ Files in This Repo](#️-files-in-this-repo)
-4. [🌟 What's New in Round 3](#-whats-new-in-round-2)
+4. [🌟 What's New in Round 4](#-whats-new-in-round-2)
 5. [💰 Prize Pool](#-prize-pool-5000-usd--bonus-gems)
 6. [🧪 Strategy Requirements](#-your-strategy-must-implement)
 7. [✅ Submission Requirements](#-submission-requirements)
@@ -61,7 +61,7 @@ Let me know if you'd like a version with collapsible sections (`<details>`), or 
 
 ---
 
-## 🌟 What's New in Round 3
+## 🌟 What's New in Round 4
 
 - 🟢 **Lower Evaluation Cutoffs**: Minimum score thresholds have been reduced for easier qualification!
 - 📅 **Shorter Backtest Period**: Validation now uses data from **Jan 1, 2025 00:00:00 UTC → June 30, 2025 00:00:00 UTC** (6 months only)
