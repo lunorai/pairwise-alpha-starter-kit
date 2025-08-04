@@ -29,7 +29,7 @@ class CryptoDataManager:
         self.rate_limit_delay = 0.1
         self.max_retries = 3
         
-        # Round 3 date range
+        # Round 4 date range
         self.start_date = "2025-01-01 00:00:00"
         self.end_date = "2025-06-29 23:59:59"
         
