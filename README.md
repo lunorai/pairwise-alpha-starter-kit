@@ -13,7 +13,7 @@ Your mission is to create a **deterministic trading strategy** that identifies p
    - [Setup Steps](#setup-steps)
 
 3. [🗂️ Files in This Repo](#️-files-in-this-repo)
-4. [🌟 What's New in Round 4](#-whats-new-in-round-2)
+4. [🌟 What's New in Round 4](#-whats-new-in-round-4)
 5. [💰 Prize Pool](#-prize-pool-5000-usd--bonus-gems)
 6. [🧪 Strategy Requirements](#-your-strategy-must-implement)
 7. [✅ Submission Requirements](#-submission-requirements)
@@ -63,7 +63,7 @@ Let me know if you'd like a version with collapsible sections (`<details>`), or 
 
 ## 🌟 What's New in Round 4
 
-- 📅 **Shorter Backtest Period**: Validation now uses data from **Jan 1, 2025 00:00:00 UTC → June 30, 2025 00:00:00 UTC** (6 months only)
+- **There are no new updates in Round 4 compared to Round 3. So, you can reuse your Round 3 strategies for Round 4 as well.**
 
 ---
 
